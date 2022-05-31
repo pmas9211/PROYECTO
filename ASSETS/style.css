@@ -1,0 +1,15 @@
+.bg-gray {
+ background: rgb(197, 190, 190) ;
+}
+.bg-indigo {
+background: #a470f8;
+}
+ .bg-orange {
+background: #fecba0;
+}
+.bg-teal {
+ background: #78dfc0;
+}
+* {
+    margin:0;
+}
